@@ -8,6 +8,8 @@ FireWatcher is an application that allows authorities detect fires and alert the
 
 <p align="center"> <img src="./231008 FireWatcher.jpeg" alt="image" width="156"/> </p>
 
+<p align="center"> <img src="./231009 certif.jpg" alt="image" width="456"/> </p>
+
 More info: https://www.spaceappschallenge.org/2023/find-a-team/virtual-black-hole
 
 <p align="center"> <img src="./231008 NasaSpaceApps.jpg" alt="image" width="456"/> </p>
