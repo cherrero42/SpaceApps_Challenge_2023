@@ -10,6 +10,12 @@ FireWatcher is an application that allows authorities detect fires and alert the
 
 <p align="center"> <img src="./231009 certif.jpg" alt="image" width="456"/> </p>
 
+We are excited to award you recognition of participation in the 2023 NASA International Space Apps Challenge, the largest in NASA Space Apps history! This year we had 57,900+ registered participants from 152 countries, tackling 30 challenges. Thank you for your collaboration, creativity, and dedication to solving the real world problems we face on Earth and in space.
+
+In honor of your 2023 participation and project submission, we present to you the official “Galactic Problem Solver” certificate.
+
+<p align="center"> <img src="./NASA_certif.png" alt="image" width="456"/> </p>
+
 More info: https://www.spaceappschallenge.org/2023/find-a-team/virtual-black-hole
 
 <p align="center"> <img src="./231008 NasaSpaceApps.jpg" alt="image" width="456"/> </p>
